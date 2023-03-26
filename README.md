@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./assets/vSolar-icon.svg" />
+  <img width="120px" src="./assets/vSolar-icon.svg" />
 </div>
 
 <div align="center"><h1>vSolar</h1></div>
@@ -10,7 +10,7 @@
 
 # About
 
-This project was created in collaboration with [@hamudi786](https://github.com/hamudi786)) for the module 226b.
+This project was created in collaboration with [@hamudi786](https://github.com/hamudi786) for the module 226b.
 
 # Documentation
 
