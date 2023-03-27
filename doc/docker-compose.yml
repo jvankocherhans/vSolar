@@ -1,0 +1,19 @@
+version: '3'
+services:
+  docsify:
+    build: ./docker/docsify
+    container_name: docsify
+    ports:
+      - "10000:10000"
+      - "35729:35729"
+    volumes:
+        - ./docs:/site
+    working_dir: /site
+    command: docsify serve . -p 10000 --livereload-port 35729
+
+  plantuml:
+    image: "plantuml/plantuml-server:jetty"
+    container_name: plantuml
+    ports:
+        - "10001:8080"
+
