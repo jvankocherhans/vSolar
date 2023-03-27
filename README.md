@@ -1,4 +1,4 @@
-<div align="center"><h1>vSolar - Effortlessly deploy and manage custom virtual machines</h1></div>
+<div align="center"><h1>vSolar - Effortless deployment and management</h1></div>
 
 <div align="center">
   <img width="120px" src="./assets/vSolar-icon.svg" />
