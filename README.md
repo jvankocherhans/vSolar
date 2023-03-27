@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/github/v/release/jvankocherhans/vSolar?include_prereleases&style=for-the-badge" alt="Release">
 </p>
 
+---
+
 # About
 
 This project was created in collaboration with [@hamudi786](https://github.com/hamudi786) for the module 226b.
