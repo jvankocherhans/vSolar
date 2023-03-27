@@ -1,4 +1,4 @@
-<div align="center"><h1>vSolar</h1></div>
+<div align="center"><h1>vSolar - The VM deployment web application</h1></div>
 
 <div align="center">
   <img width="180px" src="./assets/vSolar-icon.svg" />
