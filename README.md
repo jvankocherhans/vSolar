@@ -1,7 +1,7 @@
 <div align="center"><h1>vSolar</h1></div>
 
 <div align="center">
-  <img width="120px" src="./assets/vSolar-icon.svg" />
+  <img width="150px" src="./assets/vSolar-icon.svg" />
 </div>
 
 <div align="center"><i>vSolar is a Spring Boot web application used to manage vSphere environments and deploy virtual machines with Vagrant</i></div>
