@@ -4,6 +4,8 @@
   <img width="150px" src="./assets/vSolar-icon.svg" />
 </div>
 
+<br>
+
 <div align="center"><i>vSolar is a Spring Boot web application used to manage vSphere environments and deploy virtual machines with Vagrant</i></div>
 
 # About
