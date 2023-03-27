@@ -1,10 +1,10 @@
-<div align="center"><h1>vSolar - Effortless deployment and management</h1></div>
+<div align="center"><h1>vSolar</h1></div>
 
 <div align="center">
   <img width="120px" src="./assets/vSolar-icon.svg" />
 </div>
 
-<div align="center">vSolar is a Spring Boot web application used to manage vSphere environments and deploy virtual machines with Vagrant</div>
+<div align="center"><i>vSolar is a Spring Boot web application used to manage vSphere environments and deploy virtual machines with Vagrant</i></div>
 
 # About
 
