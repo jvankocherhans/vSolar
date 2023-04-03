@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center"><i>vSolar is a Spring Boot web application used to manage vSphere environments and deploy virtual machines with Vagrant</i></div>
+<div align="center"><i>vSolar is a Spring Boot web application used to manage vSphere environments and deploy virtual machines with Terraform and Ansible</i></div>
 
 <br>
 
